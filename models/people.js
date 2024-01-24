@@ -4,7 +4,7 @@ require('dotenv').config()
 
 mongoose.set('strictQuery', false)
 
-const url = process.env.MONGODBURI
+const url = process.env.MONGO_URL
 console.log('connecting to', url)
 
 mongoose.connect(url)
