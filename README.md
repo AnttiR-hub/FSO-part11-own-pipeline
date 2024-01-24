@@ -1,4 +1,4 @@
 # Phonebook FullStack
 
-Linkki sovellukseen:
-https://phonebookfs.onrender.com
+Link to the app:
+https://fso-part11-own-pipeline.fly.dev/
